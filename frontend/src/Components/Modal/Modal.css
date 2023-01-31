@@ -1,0 +1,55 @@
+.Modal {
+	
+}
+.head{
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+
+.login{
+    width:40%;
+    border: 2px solid rgb(164, 193, 222);
+    border-radius: 15px;
+    margin-left: 30%;
+    padding:20px;
+}
+
+.Modal select {
+    width: 40%;    
+    margin-bottom: 1%;
+    margin-left: 30%;
+    box-sizing: border-box;
+    text-align: center;
+    display: block;
+}
+
+.Modal div {
+    text-align: center;
+    margin-bottom: 1%;
+
+}
+
+.Modal label,.Modal input{
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+/* .Modal button{
+    width: 40%;    
+    margin-bottom: 1%;
+    margin-left: 30%;
+    box-sizing: border-box;
+    text-align: center;
+    display: block;
+
+} */
+
+.Alert{
+    width: 40%;    
+    margin-bottom: 1%;
+    margin-left: 30%;
+    box-sizing: border-box;
+    text-align: center;
+    display: block;
+    text-align: center
+}
